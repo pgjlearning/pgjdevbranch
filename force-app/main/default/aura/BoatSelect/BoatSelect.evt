@@ -1,0 +1,4 @@
+<aura:event type="COMPONENT" description="Event template">
+<!--<aura:attribute name="selectedBoatType" type="BoatType__c"/>-->
+<aura:attribute name="boatId" type="BoatType__c"/>
+</aura:event>
